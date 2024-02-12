@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... OpenSource,BlenderAPI, ShellScripts automation with GO and Python.
 - 🌱 I’m currently learning ...Python Intermediate, GO Basics
-- 👯 I’m looking to collaborate on ...Meshery and LF Mentoship Programms
+- 👯 I’m looking to collaborate on ...Meshery and LF Mentorship Programms
 - 🤔 I’m looking for help with ... Writting better software
 
 
